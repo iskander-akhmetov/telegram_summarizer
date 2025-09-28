@@ -1,0 +1,4 @@
+pyrogram==2.0.106
+python-dotenv==1.0.1
+requests==2.31.0
+tqdm==4.66.1
