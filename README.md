@@ -110,7 +110,7 @@ This project is open-source:
 
 If this project saves you time, consider supporting my work:  
 
-- 💖 [Donate via PayPal](https://www.paypal.me/your-username)  
+- 💖 [Donate via PayPal](https://www.paypal.me/AkhmetovIskander)  
 
 Your support helps me improve this project and keep building more open-source tools like it.  
 
